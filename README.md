@@ -1,2 +1,2 @@
 # HyperGodotArtDemos
-art assets for HyperGodot FirstWorlds Demos
+Art assets for HyperGodot FirstWorlds Demos
